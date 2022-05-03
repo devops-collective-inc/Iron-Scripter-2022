@@ -1,6 +1,6 @@
 # Iron Scripter 2022
 
-![iron scripter](ironscripterlogo.png)
+![iron scripter](./IronScripterLogo.png)
 
 The Iron Scripter event returned to the PowerShell + DevOps Global Summit. Even though conference attendance was down from previous events, which wasn't unexpected, enthusiasm was high. The three scripting factions battled it out to see whose code would reign supreme. Their efforts were judged by [Anthony Nocentino](https://twitter.com/nocentino), [Sean Wheeler](https://twitter.com/swsamwa), and [Jason Helmick.](https://twitter.com/theJasonHelmick)
 
@@ -51,5 +51,5 @@ You are encouraged to review each faction's work.
 
 You can challenge yourself and improve your PowerShell scripting skills by visiting <https://ironscripter.us>. You will find an array of scripting challenges for all skill levels. You are welcome and encouraged to try your hand at as many of them as possible. You should attempt challenges that you feel are above your skill level. The best way to learn PowerShell is by doing.
 
-> All code in this repository is offered as-is and should be considered educational material. Nothing should be considered as production ready.
+__All code in this repository is offered as-is and should be considered educational material. Nothing should be considered as production ready.__
 
