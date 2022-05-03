@@ -50,3 +50,6 @@ You are encouraged to review each faction's work.
 ## Be Challenged
 
 You can challenge yourself and improve your PowerShell scripting skills by visiting <https://ironscripter.us>. You will find an array of scripting challenges for all skill levels. You are welcome and encouraged to try your hand at as many of them as possible. You should attempt challenges that you feel are above your skill level. The best way to learn PowerShell is by doing.
+
+> All code in this repository is offered as-is and should be considered educational material. Nothing should be considered as production ready.
+
