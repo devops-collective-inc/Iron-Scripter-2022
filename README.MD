@@ -45,11 +45,12 @@ The remaining grade will be based on how well your overall code structure meets 
 
 Each faction posted their code to a Github repository. You can find an archive of their work in this repository. The judges reviewed the code, documentation, and Pester tests. Unlike past events, factions were able to submit working code which was executed. The judges were very taken with the submission from Flawless, but it wasn't quite flawless enough. A bug prevented the module from being loaded. In the end, Daybreak prevailed with a combination of working code that met many of the challenge requirements.
 
-You are encouraged to review each faction's work.
+![Daybreak 2022](Daybreak2022.jpg)
+
+You are encouraged to review each faction's work to see how they tackled the challenges. You are also welcome to try your hand. Take one of the requirements and see how far you can get. You do not have to put yourself under a time constraint. Even if you don't complete the assignment, the development process itself will be educational.
 
 ## Be Challenged
 
 You can challenge yourself and improve your PowerShell scripting skills by visiting <https://ironscripter.us>. You will find an array of scripting challenges for all skill levels. You are welcome and encouraged to try your hand at as many of them as possible. You should attempt challenges that you feel are above your skill level. The best way to learn PowerShell is by doing.
 
 __All code in this repository is offered as-is and should be considered educational material. Nothing should be considered as production ready.__
-
